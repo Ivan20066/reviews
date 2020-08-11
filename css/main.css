@@ -599,7 +599,7 @@ background: #F4F5F5;
     font-weight: bold;
 }
 .separator {
-    background:url(/img/party.png) right 20% no-repeat, linear-gradient(0deg, #373737, #373737);
+    background:url(../img/party.png) right 20% no-repeat, linear-gradient(0deg, #373737, #373737);
     min-height: 363px;
     display: flex;
     flex-direction: column;
