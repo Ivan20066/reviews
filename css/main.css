@@ -282,7 +282,6 @@ margin-right: 0;
     display: flex;
     justify-content: center;
     align-items: center; 
-    margin-top: 27px;
 }
 .pager__list {
      display: flex;
@@ -553,7 +552,7 @@ background: #F4F5F5;
 .reviews {
     column-count: 2;
     column-gap: 30px;
-    margin-bottom: 148px;
+    margin-bottom: 27px;
 }
 .review {
     display:inline-flex;
